@@ -1,8 +1,10 @@
+<!--
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+-->
   
-### <div align="center">I'm Ömer, a Full-Stack Developer 👨‍💻 </div>  
+### <div align="center">Hello there, I'm Ömer - Full-Stack Developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on my personal projects  
