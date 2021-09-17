@@ -7,10 +7,10 @@
 ### <div align="center">Hello there, I'm Ömer - Full-Stack Developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on my personal projects  
+- 🔭 I’m currently working for Startup Werk  
   
 
-- 🌱 I’m currently learning Redux  
+- 🌱 I’m currently learning Angular  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
